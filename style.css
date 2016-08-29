@@ -1,0 +1,19 @@
+body{
+    padding-top: 20px;
+}
+
+footer{
+    text-align: right;
+    margin-top: 40px;
+    border-top: 1px solid lightgray;
+    padding-top: 5px;
+}
+
+.shoutbox-text ul{
+    list-style: none;
+    padding: 5px;
+    margin: 0;
+    border: 1px solid lightgray;
+    margin-bottom: 30px;
+}
+

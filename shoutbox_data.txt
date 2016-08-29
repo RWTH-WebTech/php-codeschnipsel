@@ -1,0 +1,3 @@
+"2016-06-07 18:58:10",Alice,Schaut mal
+"2016-06-07 18:58:37",Alice,ich schreie
+"2016-06-07 19:16:01",Bob,"Hallo Welt"
